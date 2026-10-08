@@ -1,0 +1,3 @@
+Starting emulator...
+retro_load_game returned true. Starting loop.
+videoCb: data=2519865331680, w=256, h=384, pitch=1024
