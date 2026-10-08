@@ -2,6 +2,8 @@
 
 DSZ is a lightweight, high-performance frontend for Nintendo DS emulation, built natively for Windows using C# and WinForms. Under the hood, it harnesses the power of the libretro API to interface with the renowned melonDS core, delivering a seamless and highly optimized gaming experience. 
 
+<img width="742" height="771" alt="Screenshot 2026-10-08 201912" src="https://github.com/user-attachments/assets/29d2a37f-72b7-4c6f-b44d-acd8a1d47127" />
+
 Designed for users who want a straightforward, no-nonsense application to play their Nintendo DS backups, DSZ eliminates the clutter of massive multi-emulator frontends. It focuses entirely on providing a smooth, native Windows experience with exactly the features you need.
 
 ## Core Features
