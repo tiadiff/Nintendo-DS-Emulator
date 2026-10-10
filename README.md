@@ -56,3 +56,16 @@ The compiled executable and its dependencies will be placed in the \bin\Release 
 ## Disclaimer
 
 DSZ is an emulation frontend and does not include any copyrighted ROMs, BIOS, or firmware files. Users must provide their own legally obtained backups.
+
+## Contributing
+
+Contributions are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for development setup, coding standards, and pull request workflows.
+
+## Security
+
+Please see [SECURITY.md](SECURITY.md) for our security policy and details on reporting security issues responsibly.
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
+
