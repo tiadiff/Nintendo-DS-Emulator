@@ -16,7 +16,7 @@ By participating in this project, you agree to treat all community members with 
 
 ### 1. Reporting Bugs
 If you encounter a bug or unexpected behavior:
-1. Check the [Issues](https://github.com/tiadiff/DSZ-Emulator/issues) tab to ensure the issue has not already been reported.
+1. Check the [Issues](https://github.com/tiadiff/Nintendo-DS-Emulator/issues) tab to ensure the issue has not already been reported.
 2. If it hasn't, open a new issue with a descriptive title.
 3. Include relevant details:
    - Your Windows OS version (e.g., Windows 10 22H2, Windows 11 23H2).
@@ -40,8 +40,8 @@ Have an idea to improve DSZ?
 #### Development Workflow
 1. **Fork the repository** on GitHub and clone your fork locally:
    ```bash
-   git clone https://github.com/<your-username>/DSZ-Emulator.git
-   cd DSZ-Emulator
+   git clone https://github.com/<your-username>/Nintendo-DS-Emulator.git
+   cd Nintendo-DS-Emulator
    ```
 2. **Create a topic branch** from `main`:
    ```bash
@@ -63,7 +63,7 @@ Have an idea to improve DSZ?
    - Write clear, descriptive commit messages in English (e.g., `feat: add toggle for custom screen layouts` or `fix: handle window resize gracefully`).
 7. **Submit a Pull Request (PR)**:
    - Push your branch to your fork: `git push origin feature/my-new-feature`
-   - Open a PR against the `main` branch of `tiadiff/DSZ-Emulator`.
+   - Open a PR against the `master` branch of `tiadiff/Nintendo-DS-Emulator`.
    - Provide a clear description of the changes, the problem solved, and any testing performed.
 
 ---

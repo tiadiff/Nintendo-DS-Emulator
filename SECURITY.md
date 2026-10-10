@@ -20,7 +20,7 @@ Security updates and patches are provided for the latest release branch of DSZ.
 If you discover a security vulnerability or exploit (such as memory corruption, buffer overflow during Libretro memory marshaling, or unsafe file handling):
 
 1. **Do not disclose the vulnerability publicly** on GitHub Issues, pull requests, or public forums.
-2. Please report the vulnerability privately via **[GitHub Private Vulnerability Reporting](https://github.com/tiadiff/DSZ-Emulator/security/advisories/new)**.
+2. Please report the vulnerability privately via **[GitHub Private Vulnerability Reporting](https://github.com/tiadiff/Nintendo-DS-Emulator/security/advisories/new)**.
 3. If private reporting is unavailable, you may contact the maintainer directly at: `mattia.scalise@gmail.com` with the subject line `[SECURITY] DSZ Vulnerability Report`.
 
 ### What to Include in Your Report
